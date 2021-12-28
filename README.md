@@ -2,7 +2,7 @@
 Data Storage and Retrieval
 ## Overview
 Determining if an investment of a surf shop and icecream in Hawaii a good idea. Weather was collected all year round and temperatures ranged between 60 to 90 degrees. Hotter days, between 70 to 80 degrees, occurred frequently in the months of May through October. What about the weather in December? A successful shop needs to be able to be sustainable all year long. 
-![alt text](histogram)
+![alt text](https://github.com/Byankap/Surfs_Up/blob/main/Resources/histogram_temp.png)
 ## Results
 The weather in June is provided below
 ![alt text](june)

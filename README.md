@@ -12,4 +12,4 @@ The weather in December is provided below
 
 ![alt text](https://github.com/Byankap/Surfs_Up/blob/main/Resources/Dec_df.png)
 
-There are similaries between the two months. The highest temp in June is 83 vs. 78 in December. The average temp is 77 in June vs. 71 in December, and lastly the lowest temp in June is 71 vs. 60 in December. 50% of the temperatures in December is 71, pretty good for a surf and icecream shop.  
+There are similaries between the two months. The highest temp in June is 85 vs. 83 in December. The average temp is 79 in June vs. 71 in December, and lastly the lowest temp in June is 64 vs. 56 in December. 50% of the temperatures in December is 71, pretty good for a surf and icecream shop.  
